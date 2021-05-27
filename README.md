@@ -1,1 +1,1 @@
-# Ethereum-basic-comands-using-Pyhton
+# Ethereum-basic-comands-using-Python
